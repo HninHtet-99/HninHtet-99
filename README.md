@@ -15,3 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hninhtet-99&show_icons=true&locale=en&theme=highcontrast" alt="hninhtet-99" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hninhtet-99&show_icons=true&locale=en&layout=compact" alt="hninhtet-99" /></p>
