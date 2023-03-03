@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hnin Htet Aung</h1>
 <h3 align="center">A designer and coder who creates things with computer. I'm always curious to tackle web development/design challenges to achieve lasting impacts on user experience.</h3>
 
-- 🔭 I’m currently working on **My own company**
-
 - 🌱 I’m currently learning **Vue,PHP and Laravel**
 
 - 📫 How to reach me **hninhtet1113@gmail.com**
